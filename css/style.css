@@ -59,3 +59,11 @@
     padding-bottom: 0px;
     margin-bottom: 25px;
 }
+
+@media screen and (max-width: 420px){
+
+    .contenuto-sezione{
+        flex-basis: fill;   
+    }
+
+}
